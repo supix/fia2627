@@ -1,4 +1,7 @@
 farina
+sale
+cacao
+limoni
 burro
 zucchero
 latte
